@@ -3,7 +3,11 @@ import Link from "next/link";
 export function Navbar() {
   return (
     <div className="text-black flex mt-6 justify-between">
-      <div className="text-green-600 tex">S.Y.L|</div>
+      <div className="text-green-300 text-[33px] font-bold underline">
+        S<span className="font-[13]">|</span>Y
+        <span className="font-[13]">|</span>L
+        <span className="font-[13]">|</span>
+      </div>
 
       <ol className="flex flex-row gap-6 font-[409] ">
         <li>
