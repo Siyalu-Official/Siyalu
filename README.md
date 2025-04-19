@@ -32,17 +32,17 @@ The frontend is located in the `client` folder . Follow these steps to run it:
 
     The backend server is located in the `server` folder inside the `website` directory. It is built using [**Express.js**](https://expressjs.com) and uses **nodemon** for development. Follow these steps to run the backend server:
 
-1. Navigate to the `server` folder:
+    1. Navigate to the `server` folder:
         ```bash
         cd website/server
         ```
 
-2. Install the dependencies:
+    2. Install the dependencies:
         ```bash
         npm install
         ```
 
-3. Start the server using nodemon and access it at the specified port: (`http://localhost:3000`)
+    3. Start the server using nodemon and access it at the specified port: (`http://localhost:3000`)
         ```bash
         nodemon index.js
         ```
