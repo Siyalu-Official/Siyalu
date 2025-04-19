@@ -8,3 +8,5 @@
 /website/client/*.stackdump
 /website/client/node_modules
 *.log
+siyalu.txt
+/website/client/.next
