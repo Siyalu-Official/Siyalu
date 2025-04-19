@@ -8,5 +8,3 @@
 /website/client/*.stackdump
 /website/client/node_modules
 *.log
-debug.log
-/*.log
