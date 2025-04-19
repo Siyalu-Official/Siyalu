@@ -2,3 +2,8 @@
 ./siyalu.txt
 .env
 
+*.stackdump
+/website/server/node_modules
+/website/client/.env
+/website/client/*.stackdump
+/website/client/node_modules
