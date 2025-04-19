@@ -7,7 +7,7 @@ Welcome to the **Siyalu Website** repository!, the official business website for
 The main code for the website is located in the `website` folder. This folder contains all the necessary files and components to run and build the website.
 ## How to Run the Project
 
-The frontend is located in the `client` folder . Follow these steps to run the it:
+The frontend is located in the `client` folder . Follow these steps to run it:
 
 1. Navigate to the `client` folder:
     ```bash
@@ -46,5 +46,3 @@ The frontend is located in the `client` folder . Follow these steps to run the i
         ```bash
         nodemon index.js
         ```
-
-    4. The server will start running, and you can access it at the specified port (default is usually `http://localhost:3000` unless configured otherwise).
