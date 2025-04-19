@@ -1,13 +1,13 @@
 # Siyalu Business Website
 
-Welcome to the **Siyalu Business Website** repository! This project showcases a modern, responsive, and professional business website built using **Next.js**. The website is designed to provide a seamless user experience and demonstrate best practices in web development.
+Welcome to the **Siyalu Website** repository!, the official business website for [siyalu.com](https://siyalu.com) built with the react framework [Next.js](https://nextjs.org). 
 
 ## Project Structure
 
 The main code for the website is located in the `website` folder. This folder contains all the necessary files and components to run and build the website.
 ## How to Run the Project
 
-The project is located in the `client` folder and is built using **Next.js**. Follow these steps to run the project:
+The frontend is located in the `client` folder . Follow these steps to run the it:
 
 1. Navigate to the `client` folder:
     ```bash
@@ -30,7 +30,7 @@ The project is located in the `client` folder and is built using **Next.js**. Fo
     ```
     ## How to Run the Backend Server
 
-    The backend server is located in the `server` folder inside the `website` directory. It is built using **Express.js** and uses **nodemon** for development. Follow these steps to run the backend server:
+    The backend server is located in the `server` folder inside the `website` directory. It is built using [**Express.js**](https://expressjs.com) and uses **nodemon** for development. Follow these steps to run the backend server:
 
     1. Navigate to the `server` folder:
         ```bash
@@ -42,7 +42,7 @@ The project is located in the `client` folder and is built using **Next.js**. Fo
         npm install
         ```
 
-    3. Start the server using nodemon:
+    3. Start the server using nodemon and access it at the specified port: (`http://localhost:3000`)
         ```bash
         nodemon index.js
         ```
